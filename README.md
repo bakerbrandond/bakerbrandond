@@ -48,8 +48,6 @@ I'm a jack of all trades Sr. SWE with a recent focus on leveraging Go based tech
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)
 -->
 <!-- BLOG-POST-LIST:START -->
-<!--
 - [Test Post](https://dev.to/itszed0/test-post-490g)
--->
 <!-- BLOG-POST-LIST:END -->
 
