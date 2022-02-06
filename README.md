@@ -37,12 +37,7 @@ I'm a jack of all trades Sr. SWE with a recent focus on leveraging Go based tech
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bakerbrandond&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- [![GitHub Stats] ()] -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bakerbrandond&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakerbrandond&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakerbrandond&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark)](https://github.com/bakerbrandond/github-readme-stats)
 
 ---
 
@@ -53,6 +48,8 @@ I'm a jack of all trades Sr. SWE with a recent focus on leveraging Go based tech
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)
 -->
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Test Post](https://dev.to/itszed0/test-post-490g)
+-->
 <!-- BLOG-POST-LIST:END -->
 
