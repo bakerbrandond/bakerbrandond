@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, cruel world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I'm a jack of all trades Sr. SWE with a recent focus on leveraging Go based tech stacks to solve hard and novel problems.
+I'm a jack of all trades Principal SWE with a recent focus on leveraging Go based tech stacks to solve hard and novel problems.
 
 - :telescope: I've got 12 years of professional development experience with focus on SDLC, performance/scalability, maintainablity, and testing in a wide variety of arenas.
 - :seedling: Exploring focusing more on mentorship, engineering management, data science/analytics, AI/ML, and EE.
